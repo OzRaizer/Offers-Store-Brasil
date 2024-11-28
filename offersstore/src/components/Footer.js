@@ -14,8 +14,8 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="Logo-footer">
-          <h1 className="Logo">
+        <div className="logo-footer">
+          <h1 className="logo">
             Offers<span>Store</span>
           </h1>
           <p>

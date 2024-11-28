@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function TestimonialsList() {
+export default function ListaDepoimentos() {
   return (
     <div className="page-inner-content">
       <div className="depoimento">
@@ -11,7 +11,7 @@ export default function TestimonialsList() {
           máximo de pessoas para ajudar o canal a crescer.
           </p>
           <p className="rate">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
-          <p>Uanela Como</p>
+          <p>Klayton Junior</p>
         </div>
         <div className="depoimento">
           <p>"</p>
@@ -20,7 +20,7 @@ export default function TestimonialsList() {
           maior número de pessoas e apoiar o canal.
           </p>
           <p className="rate">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
-          <p>Uanela Como</p>
+          <p>Gabrielle O.</p>
         </div>
         <div className="depoimento">
           <p>"</p>
@@ -29,7 +29,7 @@ export default function TestimonialsList() {
           crescimento do canal ao máximo.
           </p>
           <p className="rate">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
-          <p>Uanela Como</p>
+          <p>Felipe Gongalves</p>
         </div>
       </div>
     </div>

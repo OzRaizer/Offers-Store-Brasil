@@ -3,7 +3,7 @@ import Header from "../Header";
 import SidebarCart from "../SidebarCart";
 import ProductsList from "../ProductList";
 import ExclusiveSection from "../ExclusiveSection";
-import TestimonialsList from "../TestimonialsList";
+import ListaDepoimentos from "../ListaDepoimentos";
 
 export default function HomePage({ products, addProductToCart }) {
   return (
@@ -25,7 +25,7 @@ export default function HomePage({ products, addProductToCart }) {
       </div>
 
       <ExclusiveSection />
-      <TestimonialsList />
+      <ListaDepoimentos />
     </>
   );
 }
