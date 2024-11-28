@@ -65,22 +65,22 @@ nav ul {
     gap: 1rem;
 }
 
-.navs-icons-container {
+.navs-icon-container {
     display: flex;
     align-items: center;
     gap: 1rem;
 }
 
-.nav-icon-container svg{
+.navs-icon-container svg {
     height: 1.5rem;
 }
 
-navs-icon-container .shopping-cart {
+.navs-icon-container .shopping-cart {
     position: relative;
 
 }
 
-navs-icon-container .shopping-cart .products-count{
+.navs-icon-container .shopping-cart .products-count {
     content: "";
     position: absolute;
     background-color: #f00;
@@ -111,7 +111,7 @@ navs-icon-container .shopping-cart .products-count{
     outline: none;
 }
 
-.search-input-container svg{
+.search-input-container svg {
     height: 1rem;
     color: #808080;
 }
