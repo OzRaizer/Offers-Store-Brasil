@@ -3,33 +3,30 @@ import React from "react";
 export default function TestimonialsList() {
   return (
     <div className="page-inner-content">
-      <div className="testimonials">
-        <div className="testimonial">
+      <div className="depoimento">
+        <div className="depoimento">
           <p>"</p>
           <p>
-            O Melhor website ecommerce responsivo e moderno, vou já partilhar o
-            video com o maior número de pessoas que eu conseguir para ajudar o
-            canal a crescer
+          O site e-commerce mais moderno e responsivo! Vou compartilhar o vídeo com o 
+          máximo de pessoas para ajudar o canal a crescer.
           </p>
           <p className="rate">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
           <p>Uanela Como</p>
         </div>
-        <div className="testimonial">
+        <div className="depoimento">
           <p>"</p>
           <p>
-            O Melhor website ecommerce responsivo e moderno, vou já partilhar o
-            video com o maior número de pessoas que eu conseguir para ajudar o
-            canal a crescer
+          O melhor site de e-commerce responsivo e atual! Já vou divulgar o vídeo para o 
+          maior número de pessoas e apoiar o canal.
           </p>
           <p className="rate">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
           <p>Uanela Como</p>
         </div>
-        <div className="testimonial">
+        <div className="depoimento">
           <p>"</p>
           <p>
-            O Melhor website ecommerce responsivo e moderno, vou já partilhar o
-            video com o maior número de pessoas que eu conseguir para ajudar o
-            canal a crescer
+          Um site e-commerce incrível e responsivo! Vou espalhar o vídeo para ajudar no 
+          crescimento do canal ao máximo.
           </p>
           <p className="rate">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
           <p>Uanela Como</p>

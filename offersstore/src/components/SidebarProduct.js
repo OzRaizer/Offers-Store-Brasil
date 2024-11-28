@@ -29,7 +29,7 @@ export default function SidebarProduct({
         </button>
         <div className="details">
           <h4>{name}</h4>
-          <p>{price} Mzn</p>
+          <p>R$ {price} </p>
           <input
             type="number"
             min={1}
@@ -44,7 +44,7 @@ export default function SidebarProduct({
           {priceSum > price && (
             <p className="price-sum">
               <b>Soma: </b>
-              {priceSum} Mzn
+              {priceSum} R$
             </p>
           )}
         </div>

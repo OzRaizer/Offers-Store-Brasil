@@ -37,7 +37,7 @@ export default function SidebarCart({
       ) : (
         <>
           <div className="total-container">
-            <b>Total: </b> {cartTotal} Mzn
+            <b>Total: </b> R$ {cartTotal} 
           </div>
 
           <Link to="/cart/checkout" className="btn-icon">

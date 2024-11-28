@@ -9,11 +9,12 @@ export default function ExclusiveSection() {
       <div className="page-inner-content">
         <div className="content">
           <div className="left-side">
-            <h2>Smart Band 4</h2>
+            <h2>Smart Band 9</h2>
             <p>
-              O Mi Smart Band 4 tem uma tela AMOLED 39.9% maior que o Mi Band 3,
-              tela completamente digital com brilho ajustável, de tal modo que
-              tudo é claro ao máximo
+              O Smart Band 9 Tela AMOLED de 1,62” com brilho incrível e design personalizável. 
+              Monitora frequência cardíaca, SpO2, sono e oferece mais de 150 modos de exercícios. 
+              Versátil, pode ser usada no pulso, como pingente ou clipe. Bateria de até 21 dias com 
+              recarga rápida. Exclusividade Xiaomi com acesso a livros digitais.
             </p>
             <Link to="/products" className="see-more-btn">
               <span>Ver Agora</span>
